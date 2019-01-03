@@ -1,6 +1,6 @@
 import config
 
-f = open("/tmp/swellnet.com-reports-australia-new-south-wales-eastern-beaches", "r")
+f = open("tmp/swellnet.com-reports-australia-new-south-wales-eastern-beaches", "r")
 if f.mode == 'r':
     contents = f.read()
     #print(contents)
