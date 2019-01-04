@@ -7,42 +7,45 @@ def run(filename):
         #print(contents)
 
         if filename.find("swellnet") != -1:
-
-            #FIX FOR NO CONTENT OR TOO EARLY
-            #if contents.find("is") == -1:
             
             str = contents.split('Surf:')
-            str = str[1].split('</span>')
-            str = str[1].split('>')
-            surf =  str[1]
-            #print(surf)
+            if len(str) > 1:
+                if str.find('Lorem ipsum') == -1:
+                    fullReport = "Daily surf reports are exclusive to Swellnet Pro subscribers until 9am"
+                else:    
+                    str = str[1].split('</span>')
+                    str = str[1].split('>')
+                    surf =  str[1]
+                    #print(surf)
 
-            str = contents.split('Winds:')
-            str = str[1].split('</span>')
-            str = str[1].split('>')
-            winds = str[1]
-            #print(winds)
-            
-            str = contents.split('Weather:')
-            str = str[1].split('</span>')
-            str = str[1].split('>')
-            weather = str[1]
-            #print(weather)
+                    str = contents.split('Winds:')
+                    str = str[1].split('</span>')
+                    str = str[1].split('>')
+                    winds = str[1]
+                    #print(winds)
+                    
+                    str = contents.split('Weather:')
+                    str = str[1].split('</span>')
+                    str = str[1].split('>')
+                    weather = str[1]
+                    #print(weather)
 
-            str = contents.split('Rating:')
-            str = str[1].split('</span>')
-            str = str[1].split('>')
-            rating = str[1]
-            #print(rating)
+                    str = contents.split('Rating:')
+                    str = str[1].split('</span>')
+                    str = str[1].split('>')
+                    rating = str[1]
+                    #print(rating)
 
-            str = contents.split('views-field views-field-body')
-            str = str[1].split('<p>')
-            str = str[1].split('</p>')
-            report = str[0]
-            #print(report)
+                    str = contents.split('views-field views-field-body')
+                    str = str[1].split('<p>')
+                    str = str[1].split('</p>')
+                    report = str[0]
+                    #print(report)
 
-            fullReport = "Surf: " + surf + "<br>" + "Winds: " + winds + "<br>" + "Weather: " + weather + "<br>" + "Rating: " + rating + "<br>" + report;
-            #print(fullReport)
+                    fullReport = "Surf: " + surf + "<br>" + "Winds: " + winds + "<br>" + "Weather: " + weather + "<br>" + "Rating: " + rating + "<br>" + report;
+                    #print(fullReport)
+            else:
+                fullReport = "Too early! Nothing to report yet."
 
         elif filename.find("coastalwatch") != -1:
 
@@ -77,7 +80,7 @@ def run(filename):
 
         f.close()
 
-        f = open(config.surfcamWebroot + "/data/" + filename.replace("tmp/", ""), "w+")
+        f = open(config.surfcamWebroot + "/data/" + filename.replace("tmp/", ""), "w")
         f.write(fullReport)
         f.close()
 
