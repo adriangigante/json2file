@@ -12,4 +12,4 @@ def run(url):
   filename = "tmp/" + url.split("//")[2].replace('/','-')
   f = open(filename, "a")
   f.write(data["contents"].encode("utf-8"))
-  return
+  return filename
