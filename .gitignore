@@ -2,6 +2,4 @@
 config.pyc
 json2file.pyc
 parse_report.py
-tmp/*
-!tmp/.gitkeep
 
