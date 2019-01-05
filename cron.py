@@ -15,8 +15,8 @@ def job():
 	    print("cron-log: Creating report " + url)
 	    filename = json2file.run(config.proxyUrl + "/" + url)
 	    #print(filename)
-	    parse_report.run(filename)
-	    print("cron-log: Report created")    
+	    report = parse_report.run(filename)
+	    print("cron-log: Report created at " + report)   
 
 #Run on start
 job()

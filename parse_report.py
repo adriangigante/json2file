@@ -1,6 +1,7 @@
-import config
+import platform
 
 def run(filename):
+
     f = open(filename, "r")
     if f.mode == 'r':
         contents = f.read()
@@ -77,11 +78,17 @@ def run(filename):
             else:
                 fullReport = "Too early! Nothing to report yet." 
 
-
         f.close()
 
-        f = open(config.surfcamWebroot + "/data/" + filename.replace("tmp/", ""), "w")
+
+
+        if platform.system() == "Linux":
+            surfcamWebroot = "/var/www/html/"
+        else:
+            surfcamWebroot = "/Library/WebServer/Documents/"
+        fOutput = surfcamWebroot + "data/" + filename.replace("tmp/", "")
+        f = open(fOutput, "w")
         f.write(fullReport)
         f.close()
 
-        return
+        return fOutput
