@@ -315,7 +315,7 @@
 
 
 
-    <div class="view view-surf-reports view-id-surf_reports view-display-id-panel_pane view-dom-id-f0aa054acf537e55dfe17e597acfecc9">
+    <div class="view view-surf-reports view-id-surf_reports view-display-id-panel_pane view-dom-id-f84e8f3f0b42ed48bf63f96b76b611e0">
                         
       
       
@@ -340,6 +340,20 @@
                         
       
       
+       
+        <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-field-surf-report-date">    <span class="views-label views-label-field-surf-report-date">Updated: </span>    <span class="field-content">2019-01-05 08:06:00</span>  </span>  
+  <span class="views-field views-field-nothing">    <span class="views-label views-label-nothing">Surf: </span>    <span class="field-content">peaky 3ft ENE   </span>  </span>  
+  <span class="views-field views-field-field-surf-report-wind">    <span class="views-label views-label-field-surf-report-wind">Winds: </span>    <span class="field-content">Light N</span>  </span>  
+  <span class="views-field views-field-field-surf-report-weather">    <span class="views-label views-label-field-surf-report-weather">Weather: </span>    <span class="field-content">mostly fine</span>  </span>  
+  <span class="views-field views-field-field-surf-report-rating">    <span class="views-label views-label-field-surf-report-rating">Rating: </span>    <span class="field-content">5/10</span>  </span>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Fun surf this morning, with a slight northerly lump through the lineup but otherwise clean on the face. We've got occasional 3ft+ sets out of the E/NE and there'll be good waves for the next few hours up until the arrival of a S'ly change. Once that hits, try southern ends for the most size and best conditions.&nbsp;</p>
+</div>  </div>  </div>
+        </div>
+
+     
       
       
 
@@ -359,6 +373,20 @@
                         
       
       
+       
+        <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-field-surf-report-date">        <span class="field-content">2019-01-05 05:07:00:</span>  </span>  
+  <span class="views-field views-field-nothing">        <span class="field-content">peaky 3ft NE,   </span>  </span>  
+  <span class="views-field views-field-field-surf-report-wind">        <span class="field-content">Light N,</span>  </span>  
+  <span class="views-field views-field-field-surf-report-weather">        <span class="field-content">partly cloudy</span>  </span>  
+  <span class="views-field views-field-field-surf-report-rating">        <span class="field-content">5/10</span>  </span>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Dawn Report: Nice waves around this morning. Winds were moderate to fresh N/NE overnight, but they've backed off in the last hour or so and are now light N'ly, and should remain varibale until a S'ly change arrives around lunchtime. We've got slightly inconsistent but fun NE swells pushing anywhere up into the 3ft+ range. Lots of options right across the peninsula so get into it! Tune in to the updated photo report around 8am.&nbsp;</p>
+</div>  </div>  </div>
+        </div>
+
+     
       
       
 
@@ -382,12 +410,51 @@
 
   
   </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-surf-reports-photos"  >
+  
+      
+  
+  <div class="pane-content">
+    
+
+
+
+    <div class="view view-surf-reports view-id-surf_reports view-display-id-photos view-dom-id-69eda48dec768ea298eac5e253bdbea7">
+                                <div class="view-header">
+          Daily Photos:        </div>
+      
+      
+      
+       
+        <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first">
+      </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      </div>
+        </div>
+
+     
+      
+      
+
+
+      
+      
+      
+      
+    </div>
+
+
+  </div>
+
+  
+  </div>
 <div class="panel-separator"></div><div class="panel-pane pane-best-board-pane"  >
   
       
   
   <div class="pane-content">
-    <span>Want to get more waves? The best board for today is 7S Super Fish 4</span><img src='/profiles/swellnet/modules/custom/swellnet_location/swellnet_location_extras/images/boards/7S-sf4-im.jpg' alt='7S Super Fish 4'/><a href="https://shop.surfindustries.com/au/surf/fish-shaped-surfboards/7s-super-fish-4-im-surfboard/?utm_source=swellnet&amp;utm_medium=link&amp;utm_campaign=boardAdvisor" target="_blank"><span>More Info...<span></a>  </div>
+    <span>Want to get more waves? The best board for today is 7S Jetstream</span><img src='/profiles/swellnet/modules/custom/swellnet_location/swellnet_location_extras/images/boards/7S-jetstream-im.jpg' alt='7S Jetstream'/><a href="https://shop.surfindustries.com/au/surf/shortboards/7s-jetstream-im-shortboard/?utm_source=swellnet&amp;utm_medium=link&amp;utm_campaign=boardAdvisor" target="_blank"><span>More Info...<span></a>  </div>
 
   
   </div>
@@ -396,7 +463,7 @@
       
   
   <div class="pane-content">
-    <div class="view view-nearest-observed-surf-reports view-id-nearest_observed_surf_reports view-display-id-nearest_observed_surf_reports view-dom-id-ed2279d4c28a58ed629fb4eb19d236c0">
+    <div class="view view-nearest-observed-surf-reports view-id-nearest_observed_surf_reports view-display-id-nearest_observed_surf_reports view-dom-id-b3a272ac9e5db38ad9c3eda58c9196c7">
             <div class="view-header">
       Nearest Observed Surf Reports:    </div>
   
@@ -428,7 +495,7 @@
       
   
   <div class="pane-content">
-    <div class="view view-nearest-surfcams view-id-nearest_surfcams view-display-id-nearest_surfcams view-dom-id-3ff29e4b8d97eb5c7ecd32b5261ec7a6">
+    <div class="view view-nearest-surfcams view-id-nearest_surfcams view-display-id-nearest_surfcams view-dom-id-a2a26af75a59d75e845b42bc61fd06ca">
             <div class="view-header">
       Nearest Surfcams:    </div>
   
@@ -512,7 +579,7 @@
   <div class="pane-content">
     <div class="report-summary"><hr>
   <div class="report-part report-surf">
-    <label>Model Estimated Surf Size (12am)</label>
+    <label>Model Estimated Surf Size (6am)</label>
           <div class="surf">
         <span class="height">2ft</span>
         <span class="description">(Waist-Shoulder High)</span>
@@ -524,12 +591,12 @@
 
   <div class="report-part report-fancy report-wind">
     <div class="arrow">
-      <span style="font-size: 20px; left: 8px; top: 5px;  color: #ffffff; transform: rotate(283deg); -webkit-transform: rotate(283deg); -ms-transform: rotate(283deg);">A</span>
+      <span style="font-size: 20px; left: 8px; top: 5px;  color: #ffffff; transform: rotate(290deg); -webkit-transform: rotate(290deg); -ms-transform: rotate(290deg);">A</span>
     </div>
     <div>
-      <label>Live Winds ( 00:50)</label>
+      <label>Live Winds ( 08:20)</label>
       <span>
-                  ESE 5kt
+                  ESE 2kt
               </span>
     </div>
   </div>
@@ -541,24 +608,32 @@
           <span class="amount">1.7</span>
           <span class="unit">m</span>
           <span>@</span>
-          <span class="period">7.1s</span>
+          <span class="period">7.4s</span>
           <span class="direction">NE (54&deg;)</span>
         </div>
                         <div>
           <label>Secondary:</label>
-          <span class="amount">0.3</span>
+          <span class="amount">0.5</span>
           <span class="unit">m</span>
           <span>@</span>
-          <span class="period">11.9s</span>
-          <span class="direction">S (191&deg;)</span>
+          <span class="period">11.3s</span>
+          <span class="direction">E (86&deg;)</span>
         </div>
-                      </div>
+                        <div>
+          <label>Tertiary:</label>
+          <span class="amount">0.2</span>
+          <span class="unit">m</span>
+          <span>@</span>
+          <span class="period">11.8s</span>
+          <span class="direction">S (190&deg;)</span>
+        </div>
+            </div>
 
   <div class="report-part report-fancy report-weather">
-    <img src="/profiles/swellnet/themes/gold/images/weather/showers.gif" alt="Showers"/>
+    <img src="/profiles/swellnet/themes/gold/images/weather/possible_thunderstorm.gif" alt="Possible thunderstorm"/>
     <div>
       <label>Weather</label>
-      <span class="description">Showers</span>
+      <span class="description">Possible thunderstorm</span>
     </div>
   </div>
 
@@ -574,11 +649,11 @@
 
   <div class="report-part report-fancy report-temperature">
     <div class="current">
-      <span>23</span>
+      <span>29</span>
     </div>
     <div>
       <label>Air Temperature</label>
-      <span class="report-label">Current:&nbsp;</span><span>23.0 (12:50am)</span>
+      <span class="report-label">Current:&nbsp;</span><span>29.0 (8:20am)</span>
       <span class="weather-min-max">Min: 23&deg;C - Max: 34&deg;C</span>
     </div>
   </div>
@@ -622,7 +697,7 @@
     
   
   <div class="pane-content">
-    <div class="view view-editors-picks-side-column view-id-editors_picks_side_column view-display-id-default view-dom-id-30028ff02358c20b4cc1d43592102d69">
+    <div class="view view-editors-picks-side-column view-id-editors_picks_side_column view-display-id-default view-dom-id-9b2a57a4e69277af65c7216b9deae176">
         
   
   
@@ -635,7 +710,7 @@
     <div class="row">
         <div class="col-md-7 col-xl-7 pr-lg-4">
 
-            <h2><a href="/news/swellnet-analysis/2019/01/03/analysis-cold-water-and-green-seas">Analysis: Cold water and green seas</a></h2><div class="field field-name-author field-type-ds field-label-hidden"><span class="username">Craig Brokensha</span></div><div class="field field-name-post-date field-type-ds field-label-hidden">Thursday, 3 January 2019&nbsp;&nbsp;<span class="views-field-comment-count"><span class="field-content">45</span></span></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>An explanation on the current cold, green water across much&nbsp;of the East Coast.</p>
+            <h2><a href="/news/swellnet-analysis/2019/01/03/analysis-cold-water-and-green-seas">Analysis: Cold water and green seas</a></h2><div class="field field-name-author field-type-ds field-label-hidden"><span class="username">Craig Brokensha</span></div><div class="field field-name-post-date field-type-ds field-label-hidden">Thursday, 3 January 2019&nbsp;&nbsp;<span class="views-field-comment-count"><span class="field-content">48</span></span></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>An explanation on the current cold, green water across much&nbsp;of the East Coast.</p>
 </div>        </div>
         <div class="col-md-5 col-xl-5">
                 <div class="field field-name-field-article-feature-image field-type-file field-label-hidden"><div  class="ds-1col file file-image file-image-png view-mode-article_teaser_postcard clearfix">
@@ -742,7 +817,7 @@
     
   
   <div class="pane-content">
-    <div class="view view-latest-news-side-column view-id-latest_news_side_column view-display-id-default view-dom-id-7c87cb049865859663e7230c522cb7e5">
+    <div class="view view-latest-news-side-column view-id-latest_news_side_column view-display-id-default view-dom-id-ba572ae7b373fcc8d270bf78de5f6c25">
         
   
   
@@ -777,7 +852,7 @@
     <div class="row">
         <div class="col-md-7 col-xl-7 pr-lg-4">
 
-            <h2><a href="/news/swellnet-dispatch/2019/01/04/watch-kelly-slater-momentum-ii">Watch: Kelly Slater // Momentum II</a></h2><div class="field field-name-author field-type-ds field-label-hidden"><span class="username">Stu Nettle</span></div><div class="field field-name-post-date field-type-ds field-label-hidden">Friday, 4 January 2019&nbsp;&nbsp;<span class="views-field-comment-count"><span class="field-content">13</span></span></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>One world title in the bag and a film to close.</p>
+            <h2><a href="/news/swellnet-dispatch/2019/01/04/watch-kelly-slater-momentum-ii">Watch: Kelly Slater // Momentum II</a></h2><div class="field field-name-author field-type-ds field-label-hidden"><span class="username">Stu Nettle</span></div><div class="field field-name-post-date field-type-ds field-label-hidden">Friday, 4 January 2019&nbsp;&nbsp;<span class="views-field-comment-count"><span class="field-content">14</span></span></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>One world title in the bag and a film to close.</p>
 </div>        </div>
         <div class="col-md-5 col-xl-5">
                 <div class="field field-name-field-article-feature-image field-type-file field-label-hidden"><div  class="ds-1col file file-image file-image-jpeg view-mode-article_teaser_postcard clearfix">
@@ -941,41 +1016,41 @@
     
   
   <div class="pane-content">
-    <div class="view view-latest-comments-concise view-id-latest_comments_concise view-display-id-block_1 view-dom-id-5b625bec595f674420630b4b75bd8238">
+    <div class="view view-latest-comments-concise view-id-latest_comments_concise view-display-id-block_1 view-dom-id-a745bf9440ca2cba203d517ba8a482a1">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <span class="views-field views-field-name">        <span class="field-content">johnnygreebs in </span>  </span>  
+  <span class="views-field views-field-name">        <span class="field-content">thermalben in </span>  </span>  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/reports/forecaster-notes/south-east-queensland-northern-new-south-wales/2019/01/04/endless-summer">The endless summer of easterly swells to continue unabated</a></span>  </span>  
-  <span class="views-field views-field-created">        <span class="field-content">1546605866</span>  </span>  
-  <div class="views-field views-field-comment-count">        <span class="field-content">4</span>  </div>  </div>
+  <span class="views-field views-field-created">        <span class="field-content">1546638960</span>  </span>  
+  <div class="views-field views-field-comment-count">        <span class="field-content">14</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <span class="views-field views-field-name">        <span class="field-content">Westofthelake in </span>  </span>  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/swellnet-dispatch/2019/01/04/watch-kelly-slater-momentum-ii">Watch: Kelly Slater // Momentum II</a></span>  </span>  
-  <span class="views-field views-field-created">        <span class="field-content">1546604912</span>  </span>  
-  <div class="views-field views-field-comment-count">        <span class="field-content">13</span>  </div>  </div>
+  <span class="views-field views-field-name">        <span class="field-content">Groper in </span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/swellnet-analysis/2019/01/03/analysis-cold-water-and-green-seas">Analysis: Cold water and green seas</a></span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">1546634716</span>  </span>  
+  <div class="views-field views-field-comment-count">        <span class="field-content">48</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
+      
+  <span class="views-field views-field-name">        <span class="field-content">dandandan in </span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/swellnet-dispatch/2019/01/04/watch-kelly-slater-momentum-ii">Watch: Kelly Slater // Momentum II</a></span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">1546628270</span>  </span>  
+  <div class="views-field views-field-comment-count">        <span class="field-content">14</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
       
   <span class="views-field views-field-name">        <span class="field-content">Pettex in </span>  </span>  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/news/swellnet-dispatch/2019/01/04/taylor-steele-releases-thirty-years-films-and-outtakes">Taylor Steele releases thirty years of films and outtakes</a></span>  </span>  
   <span class="views-field views-field-created">        <span class="field-content">1546599818</span>  </span>  
   <div class="views-field views-field-comment-count">        <span class="field-content">5</span>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
+  <div class="views-row views-row-5 views-row-odd">
       
   <span class="views-field views-field-name">        <span class="field-content">truebluebasher in </span>  </span>  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/news/form-guide/2019/01/03/wsl-locks-december-pipe-masters-three-more-years">WSL locks in December Pipe Masters for three more years</a></span>  </span>  
   <span class="views-field views-field-created">        <span class="field-content">1546599576</span>  </span>  
   <div class="views-field views-field-comment-count">        <span class="field-content">24</span>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd">
-      
-  <span class="views-field views-field-name">        <span class="field-content">tidak_bagus in </span>  </span>  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/swellnet-analysis/2019/01/03/analysis-cold-water-and-green-seas">Analysis: Cold water and green seas</a></span>  </span>  
-  <span class="views-field views-field-created">        <span class="field-content">1546590102</span>  </span>  
-  <div class="views-field views-field-comment-count">        <span class="field-content">45</span>  </div>  </div>
   <div class="views-row views-row-6 views-row-even">
       
   <span class="views-field views-field-name">        <span class="field-content">velocityjohnno in </span>  </span>  
@@ -1316,9 +1391,9 @@
 <script src="https://www.swellnet.com/misc/drupal.js?pkorzn"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
-<script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
 <script src="https://www.swellnet.com/misc/ajax.js?v=7.59"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/comment_notify/comment_notify.js?pkorzn"></script>
@@ -1333,7 +1408,7 @@
 <script src="https://www.swellnet.com/profiles/swellnet/modules/contrib/views/js/ajax_view.js?pkorzn"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/themes/gold/js/lib/fresco.js?pkorzn"></script>
 <script src="https://www.swellnet.com/profiles/swellnet/themes/gold/js/lib/d3.v3.min.js?pkorzn"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gold","theme_token":"E5zR1nKDG1Aj-1anOBj1AqH58NVEviZtq7QG3bt1MPY","jquery_version":"1.10","js":{"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"misc\/ajax.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/swellnet\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/swellnet\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/swellnet\/modules\/contrib\/quote\/quote.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/2D.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report_tides.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report_wind.js":1,"profiles\/swellnet\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/swellnet\/modules\/contrib\/views\/js\/ajax_view.js":1,"profiles\/swellnet\/themes\/gold\/js\/lib\/fresco.js":1,"profiles\/swellnet\/themes\/gold\/js\/lib\/d3.v3.min.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/swellnet\/modules\/contrib\/comment_notify\/comment_notify.css":1,"profiles\/swellnet\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/swellnet\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/swellnet\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"profiles\/swellnet\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/swellnet\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/swellnet\/modules\/contrib\/views\/css\/views.css":1,"profiles\/swellnet\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/swellnet\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/swellnet\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/swellnet\/modules\/contrib\/quote\/quote.css":1}},"quote_nest":"2","better_exposed_filters":{"views":{"surf_reports":{"displays":{"latest_report":{"filters":[]},"older":{"filters":[]},"panel_pane":{"filters":[]},"photos":{"filters":[]}}},"live_event_indicator":{"displays":{"default":{"filters":[]}}},"nearest_observed_surf_reports":{"displays":{"nearest_observed_surf_reports":{"filters":[]}}},"nearest_surfcams":{"displays":{"nearest_surfcams":{"filters":[]}}},"editors_picks_side_column":{"displays":{"default":{"filters":[]}}},"latest_news_side_column":{"displays":{"default":{"filters":[]}}},"latest_comments_concise":{"displays":{"block_1":{"filters":[]}}}}},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"profiles\/swellnet\/modules\/contrib\/video_filter"},"swellnet":{"before":1546563868,"start":1546650268,"end":1546736668,"offset":39600,"wind":{"1546646400":{"timestamp":1546646400,"time":"12:00am","day":"Sat","direction":"30","label":"NNE","speed":"11","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546642800":{"timestamp":1546642800,"time":"11:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546639200":{"timestamp":1546639200,"time":"10:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546635600":{"timestamp":1546635600,"time":"9:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546632000":{"timestamp":1546632000,"time":"8:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546628400":{"timestamp":1546628400,"time":"7:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546624800":{"timestamp":1546624800,"time":"6:00pm","day":"Fri","direction":"30","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546621200":{"timestamp":1546621200,"time":"5:00pm","day":"Fri","direction":"30","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546617600":{"timestamp":1546617600,"time":"4:00pm","day":"Fri","direction":"30","label":"NNE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546614000":{"timestamp":1546614000,"time":"3:00pm","day":"Fri","direction":"50","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546610400":{"timestamp":1546610400,"time":"2:00pm","day":"Fri","direction":"40","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546606800":{"timestamp":1546606800,"time":"1:00pm","day":"Fri","direction":"40","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546603200":{"timestamp":1546603200,"time":"12:00pm","day":"Fri","direction":"60","label":"ENE","speed":"8","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546599600":{"timestamp":1546599600,"time":"11:00am","day":"Fri","direction":"70","label":"ENE","speed":"6","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546596000":{"timestamp":1546596000,"time":"10:00am","day":"Fri","direction":"40","label":"NE","speed":"4","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546592400":{"timestamp":1546592400,"time":"9:00am","day":"Fri","direction":"10","label":"N","speed":"4","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546588800":{"timestamp":1546588800,"time":"8:00am","day":"Fri","direction":"350","label":"N","speed":"3","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546585200":{"timestamp":1546585200,"time":"7:00am","day":"Fri","direction":"30","label":"NNE","speed":"5","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546581600":{"timestamp":1546581600,"time":"6:00am","day":"Fri","direction":"20","label":"NNE","speed":"5","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546578000":{"timestamp":1546578000,"time":"5:00am","day":"Fri","direction":"30","label":"NNE","speed":"6","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546574400":{"timestamp":1546574400,"time":"4:00am","day":"Fri","direction":"30","label":"NNE","speed":"6","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546570800":{"timestamp":1546570800,"time":"3:00am","day":"Fri","direction":"20","label":"NNE","speed":"6","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546567200":{"timestamp":1546567200,"time":"2:00am","day":"Fri","direction":"30","label":"NNE","speed":"8","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"}},"tides":{"1546654320":{"timestamp":1546654320,"original_time":"2019-01-05T02:12","time":"2:12am","day":"Sat","type":"Low","height":"0.49"},"1546678080":{"timestamp":1546678080,"original_time":"2019-01-05T08:48","time":"8:48am","day":"Sat","type":"High","height":"1.71"},"1546702200":{"timestamp":1546702200,"original_time":"2019-01-05T15:30","time":"3:30pm","day":"Sat","type":"Low","height":"0.34"},"1546723440":{"timestamp":1546723440,"original_time":"2019-01-05T21:24","time":"9:24pm","day":"Sat","type":"High","height":"1.26"},"1546743240":{"timestamp":1546743240,"original_time":"2019-01-06T02:54","time":"2:54am","day":"Sun","type":"Low","height":"0.49"},"1546766820":{"timestamp":1546766820,"original_time":"2019-01-06T09:27","time":"9:27am","day":"Sun","type":"High","height":"1.73"},"1546790820":{"timestamp":1546790820,"original_time":"2019-01-06T16:07","time":"4:07pm","day":"Sun","type":"Low","height":"0.33"},"1546812120":{"timestamp":1546812120,"original_time":"2019-01-06T22:02","time":"10:02pm","day":"Sun","type":"High","height":"1.27"},"1546832100":{"timestamp":1546832100,"original_time":"2019-01-07T03:35","time":"3:35am","day":"Mon","type":"Low","height":"0.50"},"1546855500":{"timestamp":1546855500,"original_time":"2019-01-07T10:05","time":"10:05am","day":"Mon","type":"High","height":"1.73"},"1546879440":{"timestamp":1546879440,"original_time":"2019-01-07T16:44","time":"4:44pm","day":"Mon","type":"Low","height":"0.32"},"1546900860":{"timestamp":1546900860,"original_time":"2019-01-07T22:41","time":"10:41pm","day":"Mon","type":"High","height":"1.27"},"1546920900":{"timestamp":1546920900,"original_time":"2019-01-08T04:15","time":"4:15am","day":"Tue","type":"Low","height":"0.51"},"1546944060":{"timestamp":1546944060,"original_time":"2019-01-08T10:41","time":"10:41am","day":"Tue","type":"High","height":"1.71"},"1546967940":{"timestamp":1546967940,"original_time":"2019-01-08T17:19","time":"5:19pm","day":"Tue","type":"Low","height":"0.33"},"1546989480":{"timestamp":1546989480,"original_time":"2019-01-08T23:18","time":"11:18pm","day":"Tue","type":"High","height":"1.26"},"1547009580":{"timestamp":1547009580,"original_time":"2019-01-09T04:53","time":"4:53am","day":"Wed","type":"Low","height":"0.53"},"1547032500":{"timestamp":1547032500,"original_time":"2019-01-09T11:15","time":"11:15am","day":"Wed","type":"High","height":"1.66"},"1547056500":{"timestamp":1547056500,"original_time":"2019-01-09T17:55","time":"5:55pm","day":"Wed","type":"Low","height":"0.35"},"1547078160":{"timestamp":1547078160,"original_time":"2019-01-09T23:56","time":"11:56pm","day":"Wed","type":"High","height":"1.24"},"1547098260":{"timestamp":1547098260,"original_time":"2019-01-10T05:31","time":"5:31am","day":"Thu","type":"Low","height":"0.56"},"1547120880":{"timestamp":1547120880,"original_time":"2019-01-10T11:48","time":"11:48am","day":"Thu","type":"High","height":"1.60"},"1547145000":{"timestamp":1547145000,"original_time":"2019-01-10T18:30","time":"6:30pm","day":"Thu","type":"Low","height":"0.37"},"1547166840":{"timestamp":1547166840,"original_time":"2019-01-11T00:34","time":"12:34am","day":"Fri","type":"High","height":"1.23"},"1547187060":{"timestamp":1547187060,"original_time":"2019-01-11T06:11","time":"6:11am","day":"Fri","type":"Low","height":"0.59"},"1547209380":{"timestamp":1547209380,"original_time":"2019-01-11T12:23","time":"12:23pm","day":"Fri","type":"High","height":"1.53"},"1547233620":{"timestamp":1547233620,"original_time":"2019-01-11T19:07","time":"7:07pm","day":"Fri","type":"Low","height":"0.40"},"1547255880":{"timestamp":1547255880,"original_time":"2019-01-12T01:18","time":"1:18am","day":"Sat","type":"High","height":"1.23"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:7c87cb049865859663e7230c522cb7e5":{"view_name":"latest_news_side_column","view_display_id":"default","view_args":"101","view_path":"node\/101","view_base_path":null,"view_dom_id":"7c87cb049865859663e7230c522cb7e5","pager_element":0}}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gold","theme_token":"BDZ1hsB66MbSDVmI_mP8XVFBUr-qDjS43L6SE66DvDc","jquery_version":"1.10","js":{"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/swellnet\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/swellnet\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/swellnet\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/swellnet\/modules\/contrib\/quote\/quote.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/2D.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report_tides.js":1,"profiles\/swellnet\/modules\/custom\/swellnet_location\/swellnet_location_report\/js\/swellnet_report_wind.js":1,"profiles\/swellnet\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/swellnet\/modules\/contrib\/views\/js\/ajax_view.js":1,"profiles\/swellnet\/themes\/gold\/js\/lib\/fresco.js":1,"profiles\/swellnet\/themes\/gold\/js\/lib\/d3.v3.min.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/swellnet\/modules\/contrib\/comment_notify\/comment_notify.css":1,"profiles\/swellnet\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/swellnet\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/swellnet\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"profiles\/swellnet\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/swellnet\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/swellnet\/modules\/contrib\/views\/css\/views.css":1,"profiles\/swellnet\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/swellnet\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/swellnet\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/swellnet\/modules\/contrib\/quote\/quote.css":1}},"quote_nest":"2","video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"profiles\/swellnet\/modules\/contrib\/video_filter"},"better_exposed_filters":{"views":{"surf_reports":{"displays":{"latest_report":{"filters":[]},"older":{"filters":[]},"panel_pane":{"filters":[]},"photos":{"filters":[]}}},"live_event_indicator":{"displays":{"default":{"filters":[]}}},"nearest_observed_surf_reports":{"displays":{"nearest_observed_surf_reports":{"filters":[]}}},"nearest_surfcams":{"displays":{"nearest_surfcams":{"filters":[]}}},"editors_picks_side_column":{"displays":{"default":{"filters":[]}}},"latest_news_side_column":{"displays":{"default":{"filters":[]}}},"latest_comments_concise":{"displays":{"block_1":{"filters":[]}}}}},"swellnet":{"before":1546592604,"start":1546679004,"end":1546765404,"offset":39600,"wind":{"1546675200":{"timestamp":1546675200,"time":"8:00am","day":"Sat","direction":"10","label":"N","speed":"7","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546671600":{"timestamp":1546671600,"time":"7:00am","day":"Sat","direction":"10","label":"N","speed":"7","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546668000":{"timestamp":1546668000,"time":"6:00am","day":"Sat","direction":"10","label":"N","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546664400":{"timestamp":1546664400,"time":"5:00am","day":"Sat","direction":"10","label":"N","speed":"7","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546660800":{"timestamp":1546660800,"time":"4:00am","day":"Sat","direction":"10","label":"N","speed":"8","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546657200":{"timestamp":1546657200,"time":"3:00am","day":"Sat","direction":"20","label":"NNE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546653600":{"timestamp":1546653600,"time":"2:00am","day":"Sat","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546650000":{"timestamp":1546650000,"time":"1:00am","day":"Sat","direction":"20","label":"NNE","speed":"14","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546646400":{"timestamp":1546646400,"time":"12:00am","day":"Sat","direction":"30","label":"NNE","speed":"11","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546642800":{"timestamp":1546642800,"time":"11:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546639200":{"timestamp":1546639200,"time":"10:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546635600":{"timestamp":1546635600,"time":"9:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546632000":{"timestamp":1546632000,"time":"8:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546628400":{"timestamp":1546628400,"time":"7:00pm","day":"Fri","direction":"20","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546624800":{"timestamp":1546624800,"time":"6:00pm","day":"Fri","direction":"30","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546621200":{"timestamp":1546621200,"time":"5:00pm","day":"Fri","direction":"30","label":"NNE","speed":"12","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546617600":{"timestamp":1546617600,"time":"4:00pm","day":"Fri","direction":"30","label":"NNE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546614000":{"timestamp":1546614000,"time":"3:00pm","day":"Fri","direction":"50","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546610400":{"timestamp":1546610400,"time":"2:00pm","day":"Fri","direction":"40","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546606800":{"timestamp":1546606800,"time":"1:00pm","day":"Fri","direction":"40","label":"NE","speed":"10","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#00d900"},"1546603200":{"timestamp":1546603200,"time":"12:00pm","day":"Fri","direction":"60","label":"ENE","speed":"8","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546599600":{"timestamp":1546599600,"time":"11:00am","day":"Fri","direction":"70","label":"ENE","speed":"6","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546596000":{"timestamp":1546596000,"time":"10:00am","day":"Fri","direction":"40","label":"NE","speed":"4","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"},"1546592400":{"timestamp":1546592400,"time":"9:00am","day":"Fri","direction":"10","label":"N","speed":"4","layout":{"size":"12px","left":"13px","top":"12px"},"colour":"#000c70"}},"tides":{"1546654320":{"timestamp":1546654320,"original_time":"2019-01-05T02:12","time":"2:12am","day":"Sat","type":"Low","height":"0.49"},"1546678080":{"timestamp":1546678080,"original_time":"2019-01-05T08:48","time":"8:48am","day":"Sat","type":"High","height":"1.71"},"1546702200":{"timestamp":1546702200,"original_time":"2019-01-05T15:30","time":"3:30pm","day":"Sat","type":"Low","height":"0.34"},"1546723440":{"timestamp":1546723440,"original_time":"2019-01-05T21:24","time":"9:24pm","day":"Sat","type":"High","height":"1.26"},"1546743240":{"timestamp":1546743240,"original_time":"2019-01-06T02:54","time":"2:54am","day":"Sun","type":"Low","height":"0.49"},"1546766820":{"timestamp":1546766820,"original_time":"2019-01-06T09:27","time":"9:27am","day":"Sun","type":"High","height":"1.73"},"1546790820":{"timestamp":1546790820,"original_time":"2019-01-06T16:07","time":"4:07pm","day":"Sun","type":"Low","height":"0.33"},"1546812120":{"timestamp":1546812120,"original_time":"2019-01-06T22:02","time":"10:02pm","day":"Sun","type":"High","height":"1.27"},"1546832100":{"timestamp":1546832100,"original_time":"2019-01-07T03:35","time":"3:35am","day":"Mon","type":"Low","height":"0.50"},"1546855500":{"timestamp":1546855500,"original_time":"2019-01-07T10:05","time":"10:05am","day":"Mon","type":"High","height":"1.73"},"1546879440":{"timestamp":1546879440,"original_time":"2019-01-07T16:44","time":"4:44pm","day":"Mon","type":"Low","height":"0.32"},"1546900860":{"timestamp":1546900860,"original_time":"2019-01-07T22:41","time":"10:41pm","day":"Mon","type":"High","height":"1.27"},"1546920900":{"timestamp":1546920900,"original_time":"2019-01-08T04:15","time":"4:15am","day":"Tue","type":"Low","height":"0.51"},"1546944060":{"timestamp":1546944060,"original_time":"2019-01-08T10:41","time":"10:41am","day":"Tue","type":"High","height":"1.71"},"1546967940":{"timestamp":1546967940,"original_time":"2019-01-08T17:19","time":"5:19pm","day":"Tue","type":"Low","height":"0.33"},"1546989480":{"timestamp":1546989480,"original_time":"2019-01-08T23:18","time":"11:18pm","day":"Tue","type":"High","height":"1.26"},"1547009580":{"timestamp":1547009580,"original_time":"2019-01-09T04:53","time":"4:53am","day":"Wed","type":"Low","height":"0.53"},"1547032500":{"timestamp":1547032500,"original_time":"2019-01-09T11:15","time":"11:15am","day":"Wed","type":"High","height":"1.66"},"1547056500":{"timestamp":1547056500,"original_time":"2019-01-09T17:55","time":"5:55pm","day":"Wed","type":"Low","height":"0.35"},"1547078160":{"timestamp":1547078160,"original_time":"2019-01-09T23:56","time":"11:56pm","day":"Wed","type":"High","height":"1.24"},"1547098260":{"timestamp":1547098260,"original_time":"2019-01-10T05:31","time":"5:31am","day":"Thu","type":"Low","height":"0.56"},"1547120880":{"timestamp":1547120880,"original_time":"2019-01-10T11:48","time":"11:48am","day":"Thu","type":"High","height":"1.60"},"1547145000":{"timestamp":1547145000,"original_time":"2019-01-10T18:30","time":"6:30pm","day":"Thu","type":"Low","height":"0.37"},"1547166840":{"timestamp":1547166840,"original_time":"2019-01-11T00:34","time":"12:34am","day":"Fri","type":"High","height":"1.23"},"1547187060":{"timestamp":1547187060,"original_time":"2019-01-11T06:11","time":"6:11am","day":"Fri","type":"Low","height":"0.59"},"1547209380":{"timestamp":1547209380,"original_time":"2019-01-11T12:23","time":"12:23pm","day":"Fri","type":"High","height":"1.53"},"1547233620":{"timestamp":1547233620,"original_time":"2019-01-11T19:07","time":"7:07pm","day":"Fri","type":"Low","height":"0.40"},"1547255880":{"timestamp":1547255880,"original_time":"2019-01-12T01:18","time":"1:18am","day":"Sat","type":"High","height":"1.23"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ba572ae7b373fcc8d270bf78de5f6c25":{"view_name":"latest_news_side_column","view_display_id":"default","view_args":"101","view_path":"node\/101","view_base_path":null,"view_dom_id":"ba572ae7b373fcc8d270bf78de5f6c25","pager_element":0}}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"}});</script>
 
 
 

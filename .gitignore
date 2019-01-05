@@ -1,4 +1,7 @@
 .DS_Store
 config.pyc
 json2file.pyc
-parse_report.pyc
+parse_report.py
+tmp/*
+!tmp/.gitkeep
+

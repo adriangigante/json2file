@@ -10,7 +10,7 @@ def run(filename):
             
             str = contents.split('Surf:')
             if len(str) > 1:
-                if str.find('Lorem ipsum') == -1:
+                if str[1].find('Lorem ipsum') != -1:
                     fullReport = "Daily surf reports are exclusive to Swellnet Pro subscribers until 9am"
                 else:    
                     str = str[1].split('</span>')

@@ -673,22 +673,29 @@ jwplayer().on('ready',function(){
                 <div class="floatLeft w50p">
                     <div class="report scrIcon swell">
                         <i></i>
-                        <strong class="val">2 ft</strong>
+                        <strong class="val">2-3 ft</strong>
                         <span class="dir">NE</span><br />
                             <span>@ 8 sec</span>
                     </div>
                 </div>
+                                <div class="floatLeft w50p">
+                        <div class="report scrIcon wind">
+                            <i></i>
+                            <strong class="val">8 kn</strong> <span class="dir">N</span><br />
+                            <a href="/wind/nsw/manly---nth-steyne" title="16 min ago" class="underline">16 min ago</a>
+                        </div>
                     </div>
+        </div>
         <div class="floatLeft w51p">
                 <div class="floatLeft report tide">
                     <div>
                         <strong>Outgoing tide</strong><br />
-                        <span>H 8:31 PM (1.3m)</span>
+                        <span>H 8:43 AM (1.8m)</span>
 <br />
-                        <span>L 2:06 AM (0.5m)</span>                        <br />
-                        <span>H 8:43 AM (1.8m)</span>                        <br />
-                        <span>L 3:22 PM (0.4m)</span>
-                        <span class="scrIcon tide8"></span>
+                        <span>L 3:22 PM (0.4m)</span>                        <br />
+                        <span>H 9:13 PM (1.3m)</span>                        <br />
+                        <span>L 2:44 AM (0.5m)</span>
+                        <span class="scrIcon tide5"></span>
                     </div>
                 </div>
                             <div class="floatLeft report sun">
@@ -733,12 +740,12 @@ jwplayer().on('ready',function(){
 
             <li>
 
-                <h4 class="noMarginBottom">Today's rating - <strong> Average </strong></h4>
-                <div class="starLarge sprite-2starLarge"></div>
+                <h4 class="noMarginBottom">Today's rating - <strong> Good </strong></h4>
+                <div class="starLarge sprite-3starLarge"></div>
                 
-                    <p style="font-size: 13px;">Updated 4 Jan 2019 &#64; 6:39 AM (local)</p>
+                    <p style="font-size: 13px;">Updated 5 Jan 2019 &#64; 6:50 AM (local)</p>
                 <p class="noMarginBottom">
-                    Another day of 2 foot peaks , it’s a bit jumbled but still surfable and winds haven’t picked up from the NE yet .                          <br />It’s definitely time for a new or used small wave board , check em out @ alohamanlystyle                 </p>
+                    Light north winds with a few NE peaks in the 2 to maybe 3 feet range . Southerly winds are predicted to arrive in next few hours .                          <br />Check out our range of foamies and have a bash between the flags                 </p>
 
 
             </li>
@@ -770,17 +777,17 @@ jwplayer().on('ready',function(){
                 <p>
                     <strong>Morning</strong><br />
                     Swell: 0.9m<br />
-                    Wind: NE 0-10 kts<br />
-                    Best at: Protected beaches<br />
-                    Conditions: Semi-clean
+                    Wind: NW 0-10 kts<br />
+                    Best at: Open beaches<br />
+                    Conditions: Clean &amp; deteriorating later
                 </p>
                 <p>
 
                     <strong>Afternoon</strong><br />
                     Swell: 0.9m<br />
-                    Wind: NNE 10-20 kts<br />
-                    Best at: Protected beaches<br />
-                    Conditions: Clean &amp; deteriorating later
+                    Wind: S 20-30 kts<br />
+                    Best at: Open beaches<br />
+                    Conditions: Wind affected
                 </p>
             </li>
 
@@ -804,7 +811,7 @@ jwplayer().on('ready',function(){
                     <div class="floatLeft w50p">
 <div class="report scrIcon wind">
     <i></i>
-    <strong class="val">19 kn</strong> <span class="dir">S</span><br/>
+    <strong class="val">20 kn</strong> <span class="dir">S</span><br/>
     <span>@ 12 AM</span>
 </div>    
 
@@ -877,7 +884,7 @@ jwplayer().on('ready',function(){
 
 
         <div class="colHeading">MANLY (NORTH HEAD) Wind Speed & Direction</div>
-            <div class="lastUpdated" id="history-wind-last-updated">Last updated 64 min ago  at MANLY (NORTH HEAD)</div>
+            <div class="lastUpdated" id="history-wind-last-updated">Last updated 16 min ago  at MANLY (NORTH HEAD)</div>
         <div id="history-wind"></div>
         <div style="overflow: auto;height:30px;">
             <div style="float: left;" class="lastUpdated"><a href="/wind/nsw/manly---nth-steyne" class="headingColor underline val"> More live wind stations nearby</a></div>
@@ -927,7 +934,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/8e837f13-1b40-4212-b9fe-79267c5f466d">GraemeG</a></p>
                         
-                        <p><span>196</span> views</p>
+                        <p><span>197</span> views</p>
                             <p class="starSmall sprite-5starSmall"></p>
 
                     </li>
@@ -940,7 +947,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/952b6336-636a-4315-9c0c-ab4e85e5948a">Gregoryator</a></p>
                         
-                        <p><span>1001</span> views</p>
+                        <p><span>1005</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -955,7 +962,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/5b63e2ff-733c-4d15-9f45-b8998b9f4a45">tonypalmer</a></p>
                         
-                        <p><span>731</span> views</p>
+                        <p><span>734</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -970,7 +977,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/3ff5ef0b-e203-490b-ac9e-a52112ba21cd">jmadden</a></p>
                         
-                        <p><span>590</span> views</p>
+                        <p><span>593</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -987,7 +994,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/3ff5ef0b-e203-490b-ac9e-a52112ba21cd">jmadden</a></p>
                         
-                        <p><span>406</span> views</p>
+                        <p><span>409</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1002,7 +1009,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/3ff5ef0b-e203-490b-ac9e-a52112ba21cd">jmadden</a></p>
                         
-                        <p><span>441</span> views</p>
+                        <p><span>445</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1017,7 +1024,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/3ff5ef0b-e203-490b-ac9e-a52112ba21cd">jmadden</a></p>
                         
-                        <p><span>632</span> views</p>
+                        <p><span>634</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1032,7 +1039,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/3ff5ef0b-e203-490b-ac9e-a52112ba21cd">jmadden</a></p>
                         
-                        <p><span>467</span> views</p>
+                        <p><span>470</span> views</p>
                             <p class="starSmall sprite-5starSmall"></p>
 
                     </li>
@@ -1045,7 +1052,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/fd4b714d-4e89-4091-a90e-f9269f229b4f">Joemurphy</a></p>
                         
-                        <p><span>618</span> views</p>
+                        <p><span>622</span> views</p>
                             <p class="starSmall sprite-5starSmall"></p>
 
                     </li>
@@ -1058,7 +1065,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/fd4b714d-4e89-4091-a90e-f9269f229b4f">Joemurphy</a></p>
                         
-                        <p><span>620</span> views</p>
+                        <p><span>622</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1073,7 +1080,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/fd4b714d-4e89-4091-a90e-f9269f229b4f">Joemurphy</a></p>
                         
-                        <p><span>691</span> views</p>
+                        <p><span>693</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1088,7 +1095,7 @@ jwplayer().on('ready',function(){
                         </a>
                         <p>by <a href="/member-photos/user/fd4b714d-4e89-4091-a90e-f9269f229b4f">Joemurphy</a></p>
                         
-                        <p><span>605</span> views</p>
+                        <p><span>608</span> views</p>
                             <p>
                                 Not yet rated.
                             </p>
@@ -1231,43 +1238,33 @@ jwplayer().on('ready',function(){
 <!--colWaypoint--><div class="colWaypoint" >
         <div class="colHeading">Surf Directory</div>
             <div class="media col3wrap" data-total-items="0">
-            <a class="thumb col3link" href="/surfing/13165/zink-surf" 
-               onclick="trackOutboundLink('/surfing/13165/zink-surf'); return true;"
-               title="Zink Surf">
-                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_201466105711.jpg'); background-size: contain;"></span>
+            <a class="thumb col3link" href="/surf-directory/13143/morning-of-the-earth-surfboards" 
+               onclick="trackOutboundLink('/surf-directory/13143/morning-of-the-earth-surfboards'); return true;"
+               title="Morning of the Earth Surfboards">
+                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_2014529163010.jpg'); background-size: contain;"></span>
             </a>
-            <h2><a class="heading" href="/surfing/13165/zink-surf"  onclick="trackOutboundLink('/surfing/13165/zink-surf'); return true;" title="Zink Surf">Zink Surf</a></h2>
-            <p class="blurb">Zink Surf is the established store on the coast when it comes to boards and hardware.</p>
+            <h2><a class="heading" href="/surf-directory/13143/morning-of-the-earth-surfboards"  onclick="trackOutboundLink('/surf-directory/13143/morning-of-the-earth-surfboards'); return true;" title="Morning of the Earth Surfboards">Morning of the Earth Surfboards</a></h2>
+            <p class="blurb">For some the modern short board will never make sense. To me there are elements of the past that are still viable today, when blended with all we have learnt in the past.</p>
         </div>
         <!--media-->
         <div class="media col3wrap" data-total-items="0">
-            <a class="thumb col3link" href="/surf-directory/12982/esp-surfboards" 
-               onclick="trackOutboundLink('/surf-directory/12982/esp-surfboards'); return true;"
-               title="ESP Surfboards">
-                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_2014417125246.jpg'); background-size: contain;"></span>
+            <a class="thumb col3link" href="/surf-directory/16700/jye-byrnes-surfboards" 
+               onclick="trackOutboundLink('/surf-directory/16700/jye-byrnes-surfboards'); return true;"
+               title="Jye Byrnes Surfboards">
+                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_201631614454.jpg'); background-size: contain;"></span>
             </a>
-            <h2><a class="heading" href="/surf-directory/12982/esp-surfboards"  onclick="trackOutboundLink('/surf-directory/12982/esp-surfboards'); return true;" title="ESP Surfboards">ESP Surfboards</a></h2>
-            <p class="blurb">Ed Sinnott Performance[ESP] Ed has been on the cutting edge of the evolution of surfboard design since 1976 as a surfer/shaper.</p>
+            <h2><a class="heading" href="/surf-directory/16700/jye-byrnes-surfboards"  onclick="trackOutboundLink('/surf-directory/16700/jye-byrnes-surfboards'); return true;" title="Jye Byrnes Surfboards">Jye Byrnes Surfboards</a></h2>
+            <p class="blurb">Born into the surfing lifestyle, Jye Byrnes was destined to become a shaper...</p>
         </div>
         <!--media-->
         <div class="media col3wrap" data-total-items="0">
-            <a class="thumb col3link" href="/surf-directory/12989/mt-woodgee-surfboards" 
-               onclick="trackOutboundLink('/surf-directory/12989/mt-woodgee-surfboards'); return true;"
-               title="Mt Woodgee Surfboards">
-                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_201441713519.jpg'); background-size: contain;"></span>
+            <a class="thumb col3link" href="/surf-directory/20815/chilli-surfboards-australia" 
+               onclick="trackOutboundLink('/surf-directory/20815/chilli-surfboards-australia'); return true;"
+               title="Chilli Surfboards Australia">
+                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_20161125143723.jpg'); background-size: contain;"></span>
             </a>
-            <h2><a class="heading" href="/surf-directory/12989/mt-woodgee-surfboards"  onclick="trackOutboundLink('/surf-directory/12989/mt-woodgee-surfboards'); return true;" title="Mt Woodgee Surfboards">Mt Woodgee Surfboards</a></h2>
-            <p class="blurb">Mt Woodgee is one of Australia&#39;s oldest Surfboard Manufacturers, building custom Surfboards on the Gold Coast since 1976.</p>
-        </div>
-        <!--media-->
-        <div class="media col3wrap" data-total-items="0">
-            <a class="thumb col3link" href="/surf-directory/14766/gary-mcneill-concepts" 
-               onclick="trackOutboundLink('/surf-directory/14766/gary-mcneill-concepts'); return true;"
-               title="Gary McNeill Concepts">
-                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_201593113146.jpg'); background-size: contain;"></span>
-            </a>
-            <h2><a class="heading" href="/surf-directory/14766/gary-mcneill-concepts"  onclick="trackOutboundLink('/surf-directory/14766/gary-mcneill-concepts'); return true;" title="Gary McNeill Concepts">Gary McNeill Concepts</a></h2>
-            <p class="blurb">Neo-modern craft for cosmic people.</p>
+            <h2><a class="heading" href="/surf-directory/20815/chilli-surfboards-australia"  onclick="trackOutboundLink('/surf-directory/20815/chilli-surfboards-australia'); return true;" title="Chilli Surfboards Australia">Chilli Surfboards Australia</a></h2>
+            <p class="blurb">Chilli is more than foam and resin. We keep it unique. Let&#39;s unpack the nuances below...</p>
         </div>
         <!--media-->
         <div class="media col3wrap" data-total-items="0">
@@ -1278,6 +1275,16 @@ jwplayer().on('ready',function(){
             </a>
             <h2><a class="heading" href="/surfing/13129/wicks-surf-shop"  onclick="trackOutboundLink('/surfing/13129/wicks-surf-shop'); return true;" title="Wicks Surf Shop">Wicks Surf Shop</a></h2>
             <p class="blurb">Wicks is an institution on the Northern Beaches opening back in 1975.</p>
+        </div>
+        <!--media-->
+        <div class="media col3wrap" data-total-items="0">
+            <a class="thumb col3link" href="/surf-directory/20875/channel-islands-surfboards" 
+               onclick="trackOutboundLink('/surf-directory/20875/channel-islands-surfboards'); return true;"
+               title="Channel Islands Surfboards">
+                <span class="col3image" style="background-image: url('https://cf.coastalwatch.com/119x79/uploadedmedia/articles/summary_2016128105817.jpg'); background-size: contain;"></span>
+            </a>
+            <h2><a class="heading" href="/surf-directory/20875/channel-islands-surfboards"  onclick="trackOutboundLink('/surf-directory/20875/channel-islands-surfboards'); return true;" title="Channel Islands Surfboards">Channel Islands Surfboards</a></h2>
+            <p class="blurb">The driving force behind Channel Islands Surfboards is the demand on design created by the world’s greatest surfers, allowing for the highest performance surfing possible.</p>
         </div>
         <!--media-->
             <div class="fontSmall vaMiddle" ><a href="/surf-directory">See all listings</a></div>
@@ -1348,34 +1355,34 @@ jwplayer().on('ready',function(){
             <div class="col colMedia">
                 <span class="colHeading">Random Pick</span>
                     <div class="media mVideo">
-                        <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                            <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                        <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                        <p class="blurb">Nth NSW</p>
+                        <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                            <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                        <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                        <p class="blurb">Surf Coast VIC</p>
                     </div>
                     <!--media-->
                     <div class="media mVideo">
-                        <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                            <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                        <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                        <p class="blurb">Gold Coast</p>
+                        <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                            <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                        <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                        <p class="blurb">Newcastle-Hunter</p>
                     </div>
                     <!--media-->
             </div>
             <div class="col colMedia">
                 <span class="colHeading">Featured</span>
                     <div class="media mVideo">
-                        <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                            <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                        <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                        <p class="blurb">Surf Coast VIC</p>
-                    </div>
-                    <!--media-->
-                    <div class="media mVideo">
                         <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                             <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                         <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                         <p class="blurb">Sydney</p>
+                    </div>
+                    <!--media-->
+                    <div class="media mVideo">
+                        <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                            <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                        <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                        <p class="blurb">Surf Coast VIC</p>
                     </div>
                     <!--media-->
             </div>
@@ -1432,34 +1439,34 @@ jwplayer().on('ready',function(){
                 <div class="col colMedia">
                     <span class="colHeading">Random Pick</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                                <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                            <p class="blurb">Nth NSW</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                                <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                                <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                            <p class="blurb">Gold Coast</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                                <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                            <p class="blurb">Newcastle-Hunter</p>
                         </div>
                         <!--media-->
                 </div>
                 <div class="col colMedia">
                     <span class="colHeading">Featured</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                            <p class="blurb">Surf Coast VIC</p>
-                        </div>
-                        <!--media-->
-                        <div class="media mVideo">
                             <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                                 <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                             <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                             <p class="blurb">Sydney</p>
+                        </div>
+                        <!--media-->
+                        <div class="media mVideo">
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                 </div>
@@ -1528,34 +1535,34 @@ jwplayer().on('ready',function(){
                 <div class="col colMedia">
                     <span class="colHeading">Random Pick</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                                <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                            <p class="blurb">Nth NSW</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                                <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                                <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                            <p class="blurb">Gold Coast</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                                <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                            <p class="blurb">Newcastle-Hunter</p>
                         </div>
                         <!--media-->
                 </div>
                 <div class="col colMedia">
                     <span class="colHeading">Featured</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                            <p class="blurb">Surf Coast VIC</p>
-                        </div>
-                        <!--media-->
-                        <div class="media mVideo">
                             <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                                 <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                             <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                             <p class="blurb">Sydney</p>
+                        </div>
+                        <!--media-->
+                        <div class="media mVideo">
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                 </div>
@@ -1577,34 +1584,34 @@ jwplayer().on('ready',function(){
                 <div class="col colMedia">
                     <span class="colHeading">Random Pick</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                                <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                            <p class="blurb">Nth NSW</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                                <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                                <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                            <p class="blurb">Gold Coast</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                                <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                            <p class="blurb">Newcastle-Hunter</p>
                         </div>
                         <!--media-->
                 </div>
                 <div class="col colMedia">
                     <span class="colHeading">Featured</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                            <p class="blurb">Surf Coast VIC</p>
-                        </div>
-                        <!--media-->
-                        <div class="media mVideo">
                             <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                                 <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                             <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                             <p class="blurb">Sydney</p>
+                        </div>
+                        <!--media-->
+                        <div class="media mVideo">
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                 </div>
@@ -1622,34 +1629,34 @@ jwplayer().on('ready',function(){
                 <div class="col colMedia">
                     <span class="colHeading">Random Pick</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                                <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                            <p class="blurb">Nth NSW</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                                <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                                <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                            <p class="blurb">Gold Coast</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                                <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                            <p class="blurb">Newcastle-Hunter</p>
                         </div>
                         <!--media-->
                 </div>
                 <div class="col colMedia">
                     <span class="colHeading">Featured</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                            <p class="blurb">Surf Coast VIC</p>
-                        </div>
-                        <!--media-->
-                        <div class="media mVideo">
                             <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                                 <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                             <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                             <p class="blurb">Sydney</p>
+                        </div>
+                        <!--media-->
+                        <div class="media mVideo">
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                 </div>
@@ -1672,34 +1679,34 @@ jwplayer().on('ready',function(){
                 <div class="col colMedia">
                     <span class="colHeading">Random Pick</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">
-                                <img data-src="/images/cameraimage/2510?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/jetty-beach---coffs" title="Jetty Beach - Coffs">Jetty Beach - Coffs</a></h2>
-                            <p class="blurb">Nth NSW</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">
+                                <img data-src="/images/cameraimage/5720?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/ocean-grove" title="Ocean Grove">Ocean Grove</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">
-                                <img data-src="/images/cameraimage/1700?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/qld/kirra" title="Kirra">Kirra</a></h2>
-                            <p class="blurb">Gold Coast</p>
+                            <a class="thumb" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">
+                                <img data-src="/images/cameraimage/2900?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/nsw/merewether---dixon-park" title="Merewether - Dixon Park">Merewether - Dixon Park</a></h2>
+                            <p class="blurb">Newcastle-Hunter</p>
                         </div>
                         <!--media-->
                 </div>
                 <div class="col colMedia">
                     <span class="colHeading">Featured</span>
                         <div class="media mVideo">
-                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
-                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
-                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
-                            <p class="blurb">Surf Coast VIC</p>
-                        </div>
-                        <!--media-->
-                        <div class="media mVideo">
                             <a class="thumb" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">
                                 <img data-src="/images/cameraimage/3510?size=thumbnail" /></a>
                             <h2><a class="heading" href="/surf-cams-surf-reports/nsw/manly---fairy-bower" title="Manly - Fairy Bower">Manly - Fairy Bower</a></h2>
                             <p class="blurb">Sydney</p>
+                        </div>
+                        <!--media-->
+                        <div class="media mVideo">
+                            <a class="thumb" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">
+                                <img data-src="/images/cameraimage/5800?size=thumbnail" /></a>
+                            <h2><a class="heading" href="/surf-cams-surf-reports/vic/jan-juc---winki" title="Jan Juc - Winki">Jan Juc - Winki</a></h2>
+                            <p class="blurb">Surf Coast VIC</p>
                         </div>
                         <!--media-->
                 </div>
@@ -2318,6 +2325,13 @@ jwplayer().on('ready',function(){
             <div class="navThree clearer">
                     <div class="col colMedia">
                         <div class="media mVideo">
+                            <h2><a class="heading" href="/videos/25281/watch-you-gotta-see-this-tweed-river-novely-wave-turn-on" title="Watch: You Gotta See This Tweed River Novely Wave Turn On">Watch: You Gotta See This Tweed River Novely Wave Turn On</a></h2>
+                            <p class="blurb">Better than the Surf Ranch? Apart from the dead cows ... and maybe the bull sharks ... </p>
+                        </div>
+                        <!--media-->
+                    </div>
+                    <div class="col colMedia">
+                        <div class="media mVideo">
                                 <a class="thumb" href="/videos/25282/throwback-video-steph-shreds-mexican-points-with-timeless-grace" title="Throwback Video: Steph Shreds Mexican Points With Timeless Grace">
                                     <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/steph_mexicothrowback_morgan_20191311826.jpg"/></a>
                             <h2><a class="heading" href="/videos/25282/throwback-video-steph-shreds-mexican-points-with-timeless-grace" title="Throwback Video: Steph Shreds Mexican Points With Timeless Grace">Throwback Video: Steph Shreds Mexican Points With Timeless Grace</a></h2>
@@ -2340,15 +2354,6 @@ jwplayer().on('ready',function(){
                                     <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/Noa_Deane_clipoftheyear2018_20181231145447.jpg"/></a>
                             <h2><a class="heading" href="/videos/25276/who-had-the-best-free-surf-clip-this-year" title="Who Had The Best Free-Surf Clip This Year?">Who Had The Best Free-Surf Clip This Year?</a></h2>
                             <p class="blurb">Noa Deane, John John, Chippa, or Someone Else?</p>
-                        </div>
-                        <!--media-->
-                    </div>
-                    <div class="col colMedia">
-                        <div class="media mVideo">
-                                <a class="thumb" href="/videos/25274/watch-the-greatest-gold-coast-fails" title="Watch: The Greatest Gold Coast Fails">
-                                    <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/2_20181228153524.jpg"/></a>
-                            <h2><a class="heading" href="/videos/25274/watch-the-greatest-gold-coast-fails" title="Watch: The Greatest Gold Coast Fails">Watch: The Greatest Gold Coast Fails</a></h2>
-                            <p class="blurb">For the sadist in all of us</p>
                         </div>
                         <!--media-->
                     </div>
@@ -2446,6 +2451,14 @@ jwplayer().on('ready',function(){
             <div class="navThree clearer">
                         <div class="col colMedia">
                             <div class="media mVideo">
+                                <h2><a class="heading" href="/videos/best-of-the-web/25281/watch-you-gotta-see-this-tweed-river-novely-wave-turn-on" title="Watch: You Gotta See This Tweed River Novely Wave Turn On">Watch: You Gotta See This Tweed River Novely Wave Turn On</a>
+                                </h2>
+                                <p class="blurb">Better than the Surf Ranch? Apart from the dead cows ... and maybe the bull sharks ... </p>
+                            </div>
+                            <!--media-->
+                        </div>
+                        <div class="col colMedia">
+                            <div class="media mVideo">
                                     <a class="thumb" href="/videos/best-of-the-web/25282/throwback-video-steph-shreds-mexican-points-with-timeless-grace" title="Throwback Video: Steph Shreds Mexican Points With Timeless Grace">
                                         <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/steph_mexicothrowback_morgan_20191311826.jpg"/></a>
                                 <h2><a class="heading" href="/videos/best-of-the-web/25282/throwback-video-steph-shreds-mexican-points-with-timeless-grace" title="Throwback Video: Steph Shreds Mexican Points With Timeless Grace">Throwback Video: Steph Shreds Mexican Points With Timeless Grace</a>
@@ -2471,16 +2484,6 @@ jwplayer().on('ready',function(){
                                 <h2><a class="heading" href="/videos/best-of-the-web/25276/who-had-the-best-free-surf-clip-this-year" title="Who Had The Best Free-Surf Clip This Year?">Who Had The Best Free-Surf Clip This Year?</a>
                                 </h2>
                                 <p class="blurb">Noa Deane, John John, Chippa, or Someone Else?</p>
-                            </div>
-                            <!--media-->
-                        </div>
-                        <div class="col colMedia">
-                            <div class="media mVideo">
-                                    <a class="thumb" href="/videos/best-of-the-web/25274/watch-the-greatest-gold-coast-fails" title="Watch: The Greatest Gold Coast Fails">
-                                        <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/2_20181228153524.jpg"/></a>
-                                <h2><a class="heading" href="/videos/best-of-the-web/25274/watch-the-greatest-gold-coast-fails" title="Watch: The Greatest Gold Coast Fails">Watch: The Greatest Gold Coast Fails</a>
-                                </h2>
-                                <p class="blurb">For the sadist in all of us</p>
                             </div>
                             <!--media-->
                         </div>
@@ -2840,6 +2843,14 @@ jwplayer().on('ready',function(){
             <div class="navThree clearer">
                         <div class="col colMedia">
                             <div class="media mVideo">
+                                <h2><a class="heading" href="/videos/latest-features/25281/watch-you-gotta-see-this-tweed-river-novely-wave-turn-on" title="Watch: You Gotta See This Tweed River Novely Wave Turn On">Watch: You Gotta See This Tweed River Novely Wave Turn On</a>
+                                </h2>
+                                <p class="blurb">Better than the Surf Ranch? Apart from the dead cows ... and maybe the bull sharks ... </p>
+                            </div>
+                            <!--media-->
+                        </div>
+                        <div class="col colMedia">
+                            <div class="media mVideo">
                                     <a class="thumb" href="/surfing/latest-features/25285/it-s-pretty-likely-a-surfer-will-win-the-hottest-100-kai-lenny-s-wild-mavericks-session-and-the-og-momentum-is-on-youtube-now" title="It&#39;s Pretty Likely a Surfer Will Win the Hottest 100, Kai Lenny&#39;s Wild Mavericks Session, and the OG Momentum Is on YouTube Now!">
                                         <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/twis_kailenny_jan19_20191414635.jpg"/></a>
                                 <h2><a class="heading" href="/surfing/latest-features/25285/it-s-pretty-likely-a-surfer-will-win-the-hottest-100-kai-lenny-s-wild-mavericks-session-and-the-og-momentum-is-on-youtube-now" title="It&#39;s Pretty Likely a Surfer Will Win the Hottest 100, Kai Lenny&#39;s Wild Mavericks Session, and the OG Momentum Is on YouTube Now!">It&#39;s Pretty Likely a Surfer Will Win the Hottest 100, Kai Lenny&#39;s Wild Mavericks Session, and the OG Momentum Is on YouTube Now!</a>
@@ -2865,16 +2876,6 @@ jwplayer().on('ready',function(){
                                 <h2><a class="heading" href="/surfing/latest-features/25279/upload-your-photos-to-win-2400-worth-of-ocean-earth-goodies" title="Upload Your Photos to Win $2400 Worth of Ocean &amp; Earth Goodies!">Upload Your Photos to Win $2400 Worth of Ocean &amp; Earth Goodies!</a>
                                 </h2>
                                 <p class="blurb">The Summer Waves Photo Competition is back</p>
-                            </div>
-                            <!--media-->
-                        </div>
-                        <div class="col colMedia">
-                            <div class="media mVideo">
-                                    <a class="thumb" href="/videos/latest-features/25278/watch-jaws-super-sessions" title="Watch: Jaws Super Sessions">
-                                        <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/4_201911184555.jpg"/></a>
-                                <h2><a class="heading" href="/videos/latest-features/25278/watch-jaws-super-sessions" title="Watch: Jaws Super Sessions">Watch: Jaws Super Sessions</a>
-                                </h2>
-                                <p class="blurb">Pleasure and pain</p>
                             </div>
                             <!--media-->
                         </div>
@@ -4198,21 +4199,21 @@ jwplayer().on('ready',function(){
             <div class="col colMedia">
                 <span class="colHeading">Random Shapers</span>
                     <div class="media">
-                            <a class="thumb" href="/surf-directory/surfboard-shapers/14614/gato-heroi-surfboards" title="Gato Heroi Surfboards">
-                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2015728154250.jpg"/></a>
-                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/14614/gato-heroi-surfboards" title="Gato Heroi Surfboards">Gato Heroi Surfboards</a></h2>
+                            <a class="thumb" href="/surf-directory/surfboard-shapers/12973/bourton-shapes" title="Bourton Shapes">
+                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014417125322.jpg"/></a>
+                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/12973/bourton-shapes" title="Bourton Shapes">Bourton Shapes</a></h2>
                     </div>
                     <!--media-->
                     <div class="media">
-                            <a class="thumb" href="/surf-directory/surfboard-shapers/13308/annesley-surfboards" title="Annesley Surfboards">
-                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014728103741.jpg"/></a>
-                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/13308/annesley-surfboards" title="Annesley Surfboards">Annesley Surfboards</a></h2>
+                            <a class="thumb" href="/surf-directory/surfboard-shapers/12991/superbrand" title="SUPERbrand">
+                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014417132120.jpg"/></a>
+                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/12991/superbrand" title="SUPERbrand">SUPERbrand</a></h2>
                     </div>
                     <!--media-->
                     <div class="media">
-                            <a class="thumb" href="/surf-directory/surfboard-shapers/12981/byrne-surfboards" title="Byrne Surfboards">
-                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_201441616231.jpg"/></a>
-                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/12981/byrne-surfboards" title="Byrne Surfboards">Byrne Surfboards</a></h2>
+                            <a class="thumb" href="/surf-directory/surfboard-shapers/12992/warner-surfboards" title="Warner Surfboards">
+                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014417133024.jpg"/></a>
+                        <h2><a class="heading" href="/surf-directory/surfboard-shapers/12992/warner-surfboards" title="Warner Surfboards">Warner Surfboards</a></h2>
                     </div>
                     <!--media-->
             </div>
@@ -4261,26 +4262,26 @@ jwplayer().on('ready',function(){
         <div class="col colMedia">
             <span class="colHeading">Random Surf Shops</span>
                 <div class="media">
-                        <a class="thumb" href="/surfing/surf-shops/21156/wild-things" title="Wild Things">
-                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2017217142154.jpg"/>
+                        <a class="thumb" href="/surfing/surf-shops/13116/patagonia-byron-bay" title="Patagonia Byron Bay">
+                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014522162013.jpg"/>
                         </a>
-                    <h2><a class="heading" href="/surfing/surf-shops/21156/wild-things" title="Wild Things">Wild Things</a>
+                    <h2><a class="heading" href="/surfing/surf-shops/13116/patagonia-byron-bay" title="Patagonia Byron Bay">Patagonia Byron Bay</a>
                     </h2>
                 </div>
                     <!--media-->
                 <div class="media">
-                        <a class="thumb" href="/surfing/surf-shops/13196/natural-necessity-surf-gerringong" title="Natural Necessity Surf Gerringong">
-                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_201622134059.jpg"/>
+                        <a class="thumb" href="/surfing/surf-shops/13129/wicks-surf-shop" title="Wicks Surf Shop">
+                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2014527111448.jpg"/>
                         </a>
-                    <h2><a class="heading" href="/surfing/surf-shops/13196/natural-necessity-surf-gerringong" title="Natural Necessity Surf Gerringong">Natural Necessity Surf Gerringong</a>
+                    <h2><a class="heading" href="/surfing/surf-shops/13129/wicks-surf-shop" title="Wicks Surf Shop">Wicks Surf Shop</a>
                     </h2>
                 </div>
                     <!--media-->
                 <div class="media">
-                        <a class="thumb" href="/surfing/surf-shops/13165/zink-surf" title="Zink Surf">
-                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_201466105711.jpg"/>
+                        <a class="thumb" href="/surfing/surf-shops/13208/sanbah-surf" title="Sanbah Surf">
+                            <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2015722115056.jpg"/>
                         </a>
-                    <h2><a class="heading" href="/surfing/surf-shops/13165/zink-surf" title="Zink Surf">Zink Surf</a>
+                    <h2><a class="heading" href="/surfing/surf-shops/13208/sanbah-surf" title="Sanbah Surf">Sanbah Surf</a>
                     </h2>
                 </div>
                     <!--media-->
@@ -4331,14 +4332,6 @@ jwplayer().on('ready',function(){
             <div class="col colMedia">
                 <span class="colHeading">Random Surf Accessories</span>
                     <div class="media">
-                            <a class="thumb" href="/surfing/surf-accessories/14613/captain-fin" title="Captain Fin">
-                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2015728151842.jpg"/>
-                            </a>
-                        <h2><a class="heading" href="/surfing/surf-accessories/14613/captain-fin" title="Captain Fin">Captain Fin</a>
-                        </h2>
-                    </div>
-                    <!--media-->
-                    <div class="media">
                             <a class="thumb" href="/surfing/surf-accessories/20800/neso-tents" title="Neso Tents">
                                 <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_201611239824.jpg"/>
                             </a>
@@ -4347,10 +4340,18 @@ jwplayer().on('ready',function(){
                     </div>
                     <!--media-->
                     <div class="media">
-                            <a class="thumb" href="/surfing/surf-accessories/20870/spy-optic" title="Spy Optic">
-                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2016127113426.jpg"/>
+                            <a class="thumb" href="/surfing/surf-accessories/21157/octopus" title="Octopus">
+                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2017217143121.jpg"/>
                             </a>
-                        <h2><a class="heading" href="/surfing/surf-accessories/20870/spy-optic" title="Spy Optic">Spy Optic</a>
+                        <h2><a class="heading" href="/surfing/surf-accessories/21157/octopus" title="Octopus">Octopus</a>
+                        </h2>
+                    </div>
+                    <!--media-->
+                    <div class="media">
+                            <a class="thumb" href="/surfing/surf-accessories/14613/captain-fin" title="Captain Fin">
+                                <img data-src="https://cf.coastalwatch.com/200x133/uploadedmedia/articles/summary_2015728151842.jpg"/>
+                            </a>
+                        <h2><a class="heading" href="/surfing/surf-accessories/14613/captain-fin" title="Captain Fin">Captain Fin</a>
                         </h2>
                     </div>
                     <!--media-->
@@ -4400,7 +4401,7 @@ jwplayer().on('ready',function(){
 
 
 <ul class="navTwo">
-            <li><a href="/surfing/15371/video-what-the-swell-did-for-snapper-on-saturday" title="Apps">Apps</a>
+            <li><a title="Apps">Apps</a>
             <div class="navThree clearer">
                     <div class="col colMedia">
                         <div class="media mVideo">
@@ -4431,7 +4432,7 @@ jwplayer().on('ready',function(){
                     </div>
             </div>
         </li>
-            <li><a href="/surfing/15371/video-what-the-swell-did-for-snapper-on-saturday?categoryUrlKey=mobile-services" title="Mobile Services">Mobile Services</a>
+            <li><a title="Mobile Services">Mobile Services</a>
             <div class="navThree clearer">
                         <div class="col colMedia">
                             <div class="media mVideo">
