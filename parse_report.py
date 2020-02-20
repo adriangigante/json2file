@@ -82,11 +82,12 @@ def run(filename):
 
 
 
-        if platform.system() == "Linux":
-            surfcamWebroot = "/var/www/html/"
-        else:
-            surfcamWebroot = "/Library/WebServer/Documents/"
-        fOutput = surfcamWebroot + "data/" + filename.replace("tmp/", "")
+        # if platform.system() == "Linux":
+        #     surfcamWebroot = "/var/www/html/"
+        # else:
+        #     surfcamWebroot = "/Library/WebServer/Documents/"
+        #fOutput = surfcamWebroot + "data/" + filename.replace("tmp/", "")
+        fOutput = filename
         f = open(fOutput, "w")
         f.write(fullReport)
         f.close()

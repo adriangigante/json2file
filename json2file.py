@@ -8,8 +8,9 @@ def run(url):
   #print(contents)
   data = json.loads(contents)
   #print(data["contents"])
-
+  
   filename = "tmp/" + url.split("//")[2].replace('/','-')
+  #print(filename)
   f = open(filename, "w")
   f.write(data["contents"].encode("utf-8"))
   return filename
