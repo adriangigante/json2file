@@ -4,6 +4,7 @@ import time
 #import json2file
 #import parse_report
 import datetime
+import urllib2
 import replace_html
 import parse_report_inplace
 
